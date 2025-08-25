@@ -1,0 +1,12 @@
+librosa
+numpy
+scikit-learn
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+torch
+tensorflow
+matplotlib
+soundfile
+python-socketio
